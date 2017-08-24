@@ -1,0 +1,2 @@
+alias rank "du -ah . | grep -v '/\$' | gsort -rh | less"
+
