@@ -1,0 +1,2 @@
+# Show free space in base qcow image 
+docker run --rm alpine df -h
